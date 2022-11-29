@@ -1,0 +1,17 @@
+.accordion {
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    transition: 0.4s;
+  }
+  
+  
+  
+  .panel {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+  }
